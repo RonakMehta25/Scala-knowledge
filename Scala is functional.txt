@@ -1,0 +1,4 @@
+Scala is functional
+
+
+Scala is also a functional language in the sense that every function is a value and every value is an object so ultimately every function is an object.

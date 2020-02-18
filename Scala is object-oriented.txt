@@ -1,0 +1,2 @@
+Scala is object-oriented
+Scala is a pure object-oriented language in the sense that every value is an object.
